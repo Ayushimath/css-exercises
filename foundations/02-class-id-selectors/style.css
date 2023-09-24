@@ -1,0 +1,20 @@
+   *{
+    font-family: Verdana,'DejaVu sans',sans-serif;
+   }
+   
+   .main{
+        background-color: lightpink;
+        /* font-family: Verdana,'DejaVu sans',sans-serif; */
+    }
+    #num2{
+        color:blue;
+        font-size: 36px;
+    }
+    #num4{
+        background-color: lightgreen;
+        font-size:24px;
+        font-weight:bold;
+    }
+    .main.big{
+        font-size:24px;
+    }
